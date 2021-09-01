@@ -1,46 +1,92 @@
-# Getting Started with Create React App
+<h1 align="center">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+GoRestaurant
+</h1>
 
-## Available Scripts
+<p align="center">Front-end developed in the ReactJS Ignite Challenge 03,we practice create of functions components and refactoring of javascript for typescript.
+</p>
+<br>
+<br>
+<p align="center">
+ <a href="#Technologies">Technologies</a> •
+ <a href="#Get-Started">Get started</a> •
+ <a href="#Developer">Developer</a>
+</p>
+<br>
+<br>
 
-In the project directory, you can run:
+  ##  🚀  Technologies
 
-### `yarn start`
+  This project was development with the following technologies
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<br>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+  -   ✅  Typescript
+  -   ✅  NodeJS
+  -   ✅  ReactJS
+  -   ✅  Babel
+  -   ✅  Webpack
+  -   ✅  Jest
+  -   ✅  Sass
+  -   ✅  Create-react-app
+  -   ✅  Json-server
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br>
+<br>
 
-### `yarn build`
+## 🏁  Get started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 🚧 To run the project, you must have installed [NodeJS](https://nodejs.org/en/) and, or [Yarn](https://yarnpkg.com/) 🚧
+<br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### First step is to open your terminal where you want to download the project.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<br>
 
-### `yarn eject`
+### To download and initializing the project run the following command.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```bash
+$ git clone https://github.com/joaoeduardodias/desafio-04-ReactJS.git
+$ cd desafio-04-ReactJS
+$ yarn
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
+### After these commands, split the terminal and run the following command to run the fakeAPI
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```bash
+$ yarn server
+```
+### Then run the following command to start the application
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```bash
+$ yarn start
+```
 
-## Learn More
+### A tab will open in your browser with the project running
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<br>
+<br>
+<br>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+## 👨‍🔧 Developer
+---
+<br>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-dias-465157183/">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/49342574?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>João Dias</b></sub></a> <a href="https://www.linkedin.com/in/jo%C3%A3o-dias-465157183/" title="João Dias">&nbsp;&nbsp;🚀</a>
+
+
+Feito com ❤️ por João Dias 👋🏽 Entre em contato!
+
+ [![Linkedin Badge](https://img.shields.io/badge/-João_Dias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-dias-465157183/)](https://www.linkedin.com/in/jo%C3%A3o-dias-465157183/)
+[![Gmail Badge](https://img.shields.io/badge/-joaoeduardodias123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaoeduardodias123@gmail.com)](mailto:joaoeduardodias123@gmail.com)
+<br>
+<br>
+
+<h3 align="center">
+	🚧  GoRestaurant  🚀  🚧
+</h3>
